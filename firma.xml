@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="wiz.xsl"?>
+<firm>
+	<name-firm>IT CORPORATION</name-firm>
+	<logo>I.T_logo.svg</logo>
+	<owner>
+		<name>Jakub</name>
+		<surname>Bąk</surname>
+	</owner>
+	<tel>213 769 123</tel>
+	<e-mail>emailfajny@wp.pl</e-mail>
+	<address>
+		<street>Ogrodowa</street>
+		<home>13</home>
+		<country-code>74-400</country-code>
+		<town>Dębno</town>
+	</address>
+	<service-list>
+		<service>Czyszczenie komputerów</service>
+		<service>Składanie komputerów</service>
+		<service>Formatowanie komputerów</service>
+	</service-list>
+</firm>
